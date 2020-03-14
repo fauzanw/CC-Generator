@@ -1,0 +1,12 @@
+{
+  "name": "creditcard-generator",
+  "version": "1.0.0",
+  "description": "Simple Credit Card Generator",
+  "main": "generator.js",
+  "author": "FauzanW",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "commander": "^5.0.0"
+  }
+}
